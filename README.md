@@ -41,4 +41,5 @@ Matrix transformations, isometric projection, color gradients.
 ## 📫 Contact
 
 **Email:** anton.shevchuk02@gmail.com  
-**LinkedIn:** https://linkedin.com/in/perelmanlegacy
+**LinkedIn:** https://linkedin.com/in/perelmanlegacy  
+**My Second Account:** https://github.com/arigatoha
